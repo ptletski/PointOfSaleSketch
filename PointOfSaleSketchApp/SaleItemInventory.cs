@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 
 namespace PointOfSaleSketchApp
-{
+{//
     public class SaleItemInventory
     {
         private static readonly List<SaleItem> _Inventory;

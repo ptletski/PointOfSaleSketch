@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 
 namespace PointOfSaleSketchApp
-{
+{//
     public class PointOfSaleFrontEnd
     {
         public PointOfSaleFrontEnd()

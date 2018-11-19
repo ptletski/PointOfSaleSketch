@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace PointOfSaleSketchApp
-{
+{//
     public class SaleItem
     {
         private double _price;

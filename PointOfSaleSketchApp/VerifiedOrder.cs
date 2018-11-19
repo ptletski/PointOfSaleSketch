@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace PointOfSaleSketchApp
-{
+{//
     public class VerifiedOrder
     {
         public VerifiedOrder()

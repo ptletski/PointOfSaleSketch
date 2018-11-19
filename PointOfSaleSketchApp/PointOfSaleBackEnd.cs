@@ -8,7 +8,8 @@ namespace PointOfSaleSketchApp
     public class PointOfSaleBackEnd
     {
         // Each HttpClient instance holds a connection pool, 
-        // so you generally want to create one instance and reuse it. 
+        // so you generally want to create one instance and reuse it.
+        //
         private static HttpClient _transactionServer;
 
         static PointOfSaleBackEnd()

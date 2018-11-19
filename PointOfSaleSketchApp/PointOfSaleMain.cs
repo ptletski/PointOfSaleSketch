@@ -2,7 +2,7 @@
 using System.Threading;
 
 namespace PointOfSaleSketchApp
-{
+{//
     public class PointOfSaleMain
     {
         public PointOfSaleMain()
